@@ -6,6 +6,8 @@
 
 3. Guardar la foto en un directorio local del servidor
 
+4. mostrar en la consola del servidor el porcentaje de subida del fichero
+
 ### pistas
 
 para leer los datos usaremos el evento __.on('data)__
